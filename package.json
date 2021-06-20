@@ -1,0 +1,22 @@
+{
+  "name": "projectfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frag2012/projectFood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frag2012/projectFood/issues"
+  },
+  "homepage": "https://github.com/frag2012/projectFood#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
